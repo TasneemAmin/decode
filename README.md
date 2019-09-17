@@ -8,4 +8,4 @@ crypto-ransomware, encrypt certain file types on infected systems and forces use
 payment methods to get a decrypt key.
 
 # Demo video
-https://drive.google.com/file/d/1Y3xHIXmZaavDSoUHar2V5GV3jeK_cpQ9/view?usp=sharing
+https://drive.google.com/file/d/10RCq1Qfv9r7LCp1gG_CzEY_1H7eelYOB/view?usp=drivesdk
